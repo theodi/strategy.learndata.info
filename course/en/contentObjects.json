@@ -1,0 +1,51 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_id": "57e0e9354d7b7e82691e3cf7",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Data Strategy",
+    "title": "Data Strategy",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "List the key characteristics of an effective open data strategy",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Identify case studies of open data strategy preparation",
+          "credits": 10,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Understand the impact of an open data strategy on the organisation",
+          "credits": 10,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Solve a series of operational challenges by applying open data strategy tools",
+          "credits": 15,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  }
+]

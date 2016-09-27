@@ -1,0 +1,449 @@
+[
+  {
+    "_id": "57e3e9a04d7b7e82691e3cfa",
+    "_layout": "left",
+    "_parentId": "57e0e9354d7b7e82691e3cf9",
+    "_type": "component",
+    "body": "<p>Open data is increasing in importance to organisations of all sizes. As the volume of open data being consumed and published increases, so does the importance of this data to the strategic decisions of the organisation. To safeguard the use of data and ensure it delivers value, organisations need a data strategy that sets out clear, consistent protocols for the collection, use and sharing of data.</p>\n\n<p>Developing data strategy can seem like a daunting process. However, with a few simple principles to guide the design and creation, data strategies can be put in place rapidly and immediately begin delivering improvements.</p>\n\n<p>This module will prepare you with the tools to develop, write and implement a data strategy.</p>\n",
+    "displayTitle": "Data Strategy",
+    "title": "Data Strategy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57e3ec274d7b7e82691e3cfc",
+    "_layout": "right",
+    "_parentId": "57e3ec184d7b7e82691e3cfb",
+    "_type": "component",
+    "body": "<p>A data strategy is a&nbsp;statement of the value the organisation sees in their data and a set of actions to capture that value. Like any strategy, it begins with the&nbsp;goal or vision of the organisation&nbsp;and then sets out guiding principles to achieve these results.</p>\n\n<p>Data strategy is primarily focussed on the data the organisation holds itself. This could be everything from sales reports and&nbsp;customer insights to&nbsp;operations to marketing.</p>\n\n<p>The strategy begins by setting out how the organisation believes data should add value to their activities. These beliefs can be very simple (e.g. data will help&nbsp;us sell our products in more markets) or more complex (e.g. data will allow us to continuously monitor the efficiency of our operations and optimise in real time).&nbsp;</p>\n\n<p>Our strategy then sets out a plan of action for achieving the value set out in the statements. This plan is used to inform the decisions managers make about how to work so must be clear, achievable and have an obvious benefit for the organisation.</p>\n\n<p>Data strategies vary dramatically in length according to the complexity of data within the organisation. A company who holds very little data will have a short strategy. A data-rich company may have more detail.</p>\n",
+    "displayTitle": "What is data strategy?",
+    "title": "What is data strategy?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57e3f0d74d7b7e82691e3cfe",
+    "_layout": "full",
+    "_parentId": "57e3f0cb4d7b7e82691e3cfd",
+    "_type": "component",
+    "body": "<p>Your data strategy defines the way in which people in your organisation treat data. With good strategy, you can ensure your data is maintained consistently, used professional and shared safely. Without data strategy, organisations tend to fall into one of 5 major traps...</p>\n",
+    "displayTitle": "Why does data strategy matter?",
+    "title": "Why does data strategy matter?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Siloed",
+        "body": "<p>Siloes companies don&rsquo;t know where their data is stored or how it is used. There is little or no communication between areas of the business about their data assets or activities.</p>\n\n<p>Different parts of the organisation&nbsp;use their own data for their own goals with very little sharing. The typical siloed company is often surprised by what data someone else in the business holds or what they have done with data.</p>\n\n<p>The most typical phrase for someone in a siloed organisation is <em><strong>&ldquo;We don&rsquo;t know who holds what&rdquo;</strong></em></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/6d2b97fe6f54885527d2b179dc7002bef30b9368.jpg",
+          "alt": ""
+        },
+        "strapline": "Siloes"
+      },
+      {
+        "title": "Resistant",
+        "body": "<p>Resistant companies have staff who refuse, deliberately or otherwise, to tow the line when it comes to data management &amp; use. These organisations have a failed to effectively secure the support of staff for the strategy.</p>\n\n<p>The typical resistant company has a data strategy, but different people pursue their own goals regardless at the expense of this strategy.&nbsp;</p>\n\n<p>The most typical phrase for someone in a resistant organisation is&nbsp;<strong>&ldquo;that&rsquo;s not the way I work&rdquo;</strong></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/b8afc87f6ab848c05d5957d09b30ac1c7235bdb0.jpg",
+          "alt": ""
+        },
+        "strapline": "Resistance"
+      },
+      {
+        "title": "Piecemeal",
+        "body": "<p>Piecemeal companies lack a central data strategy. They have many, small&nbsp;data strategies for different projects or data types. &nbsp;Each new area or project has a strategy&nbsp;set up without reference to the others.</p>\n\n<p>The piecemeal organisation struggles from the incompatibility&nbsp;of different data types caused by the different strategies.</p>\n\n<p>The most typical phrase for the piecemeal organisation is&nbsp;<strong>&ldquo;this time lets do it this way&rdquo;.</strong></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/2283c9fe54cec54fc9f4409b7fb65b84b1b400c2.jpg",
+          "alt": ""
+        },
+        "strapline": "Piecemeal"
+      },
+      {
+        "title": "Legacy",
+        "body": "<p>Legacy companies have strategies designed around the constraints of their systems or workforce skills. Usually, the legacy organisation has systems they are locked into or that limit what they can do with data.</p>\n\n<p>Even where the goals of the business are different, strategy is led by resources rather than objectives.</p>\n\n<p>The most typical phrase for the legacy organisation is&nbsp;<strong>&ldquo;The system means we have to do it this way&rdquo;</strong></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/dd7d873a83c4a69f5e6389f14ad50a11c6b1813a.jpg",
+          "alt": ""
+        },
+        "strapline": "Legacy"
+      },
+      {
+        "title": "Focussed",
+        "body": "<p>The focus company only cares about data that serves a single or limited set of objectives. They may have a strategy but limited to a specific project or product.</p>\n\n<p>The focussed company&nbsp;will discard or neglect any data not directly relevant to their focus area(s).</p>\n\n<p>The most typical phrase for the focussed company is&nbsp;<strong>&ldquo;that data isn&#39;t relevant to us&rdquo;.</strong></p>\n",
+        "_graphic": {
+          "src": "course/en/assets/0794a95606bd4f24b05c2c5da37acd6ec295c827.jpg",
+          "alt": ""
+        },
+        "strapline": "Focussed"
+      }
+    ]
+  },
+  {
+    "_id": "57e8d9e64d7b7e82691e3d0b",
+    "_layout": "left",
+    "_parentId": "57e4fc7f4d7b7e82691e3d09",
+    "_type": "component",
+    "body": "<p>Data strategy is composed of 5 key elements. Each of these are essential to delivering the value the organisation wants to derive from their&nbsp;data</p>\n",
+    "displayTitle": "Components of data strategy",
+    "title": "Components of data strategy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Map",
+        "body": "<p>The first key element of data strategy is a comprehensive asset map of who holds and maintains your data.</p>\n\n<p>You need to develop a complete list of the data types your organisation holds &amp; has access to.</p>\n\n<p>For each dataset list an owner, how the data can be accessed and where it is held.</p>\n\n<p>Other useful information includes update frequency and format</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Describe",
+        "body": "<p>The second key component is a good description of each of the data types you hold, access or use.</p>\n\n<p>You need to ensure that all data is described in a uniform, meaningful way that can be easily searched</p>\n\n<p>Each dataset should have a set of common IDs such as name, topic, temporal coverage, ownership, use requirements, format &amp; permissions</p>\n\n<p>This information should be stored in a commonly accessible database pushed at least company-wide</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Share",
+        "body": "<p>The third key component is a plan for how data will be shared both within the organisation and more broadly with partners or the public.</p>\n\n<p>Once data is mapped and described, you need to fix the appropriate access requirements to balance security with ease of use.</p>\n\n<p>Use the data spectrum to select the optimal sharing level for each dataset then consider how to provide it.</p>\n\n<p>Take account of information security throughout.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Maintain",
+        "body": "<p>The fourth key element of the data strategy is a process for timely and thorough maintenance of the organisation&#39;s data assets</p>\n\n<p>Data needs common maintenance. You should put in place expected standards of data quality, educate staff on how to implement them and regularly review.</p>\n\n<p>Staff will often need new skills to maintain data correctly. Place an important emphasis on L&amp;D whether through on-job training, courses or instruction.</p>\n\n<p>Ensure standards are met and maintained through reward</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Govern",
+        "body": "<p>The final key element of the data strategy is a governance plan that ensures leadership and management are equipped to uphold data standards across the organisation.</p>\n\n<p>Ensure that all levels of the organisation have data strategy baked into their work. Appropriate oversight and check-ins will drive adoption and are critical to the process.</p>\n\n<p>Managers need data governance metrics and a person should be appointed as the reviewer of data quality and management.</p>\n\n<p>Govern effectively and ensure everyone understands the vision and the purpose</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "57e8ecca4d7b7e82691e3d11",
+    "_layout": "left",
+    "_parentId": "57e8ecb24d7b7e82691e3d10",
+    "_type": "component",
+    "body": "<p>A key discipline for creating good data strategies is an understanding of how to describe your data. Internal processes within the organisation tend to dictate how we label and describe data. However, when newcomers need to search, use or contribute to data. In particular, when an organisation shares data with partners or opens that data to the public, they need to ensure that the right labels and information are in place to make it accessible and simple to use.</p>\n\n<p>There are a range of different tools that can support you when describing data well. The ODI&#39;s <a href=\"http://certificates.theodi.org/en/\">Open Data Certificates</a> are a self-assessment tool that takes you through all the fundamentals of describing data well. Certificates can be used even if the data itself is never published as open.</p>\n",
+    "displayTitle": "Describing data well",
+    "title": "Describing data well",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57e8ee424d7b7e82691e3d13",
+    "_layout": "full",
+    "_parentId": "57e8ee204d7b7e82691e3d12",
+    "_type": "component",
+    "body": "<p>Welcome to the data spectrum. This tool can help you classify and agree on sharing arrangements for your data assets. Click on each of the pins below to discover which data goes under which part of the spectrum.</p>\n",
+    "displayTitle": "Selecting the right sharing arrangements",
+    "title": "Selecting the right sharing arrangements",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "hotgraphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "src": "course/en/assets/4b9908969dc041bf339cf058c604f831175f8ef8.jpg",
+      "alt": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Internal Access",
+        "body": "<p>Internal access is the most private type of data shared only with selected individuals inside the organisation.</p>\n\n<p>Whether closed to protect sensitive personal information such as salaries or to keep private commercially sensitive details of operations, Internal access data can only be accessed by those in specific roles within the organisation.</p>\n",
+        "strapline": "Internal access",
+        "_graphic": {
+          "src": "course/en/assets/6a0a91e76bc18535113eb85d50ab3cee62d57e04.png",
+          "alt": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 13.3,
+        "_top": 75
+      },
+      {
+        "title": "Named access",
+        "body": "<p>Named access data is shared only with named individuals. These people can be inside the organisation or in partner organisations.</p>\n\n<p>Named access data is only accessed on the based of a signed agreement between the party sharing the data and the party accessing it.</p>\n",
+        "strapline": "Named Access",
+        "_graphic": {
+          "src": "course/en/assets/d2a6aea242ee20f9a5083afe1f520727c022484a.png",
+          "alt": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 26.9,
+        "_top": 75
+      },
+      {
+        "title": "Group-based access",
+        "body": "<p>Group-based access data is shared with anyone who meets certain professional or usage conditions. For example, you might choose to share product availability quantities with anyone working for a retailer but not with those working for a competitor.</p>\n\n<p>Group-based access is granted on the basis of authentication. The person accessing the data must prove, to the satisfaction of the sharing organisation, that they belong to the class of people granted access.</p>\n",
+        "strapline": "Group-based",
+        "_graphic": {
+          "src": "course/en/assets/85a49d9ec53c78ab856cfcd3de0f7de618c4f2a4.png",
+          "alt": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 41,
+        "_top": 75
+      },
+      {
+        "title": "Public Access",
+        "body": "<p>Public access data can be located online by anyone. However, while people may be able to find this data, there are still legal protections in place that prevent the free use or sharing of this data.</p>\n\n<p>Your public access data is often part of your web presence or data you otherwise want people to experience without having the legal right to use and share that data themselves.</p>\n",
+        "strapline": "Public Access",
+        "_graphic": {
+          "src": "course/en/assets/f494970aa6b0cccd94671238e7d8bd663f59fa1d.png",
+          "alt": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 61.2,
+        "_top": 75
+      },
+      {
+        "title": "Open",
+        "body": "<p>Open data is data that anyone can access use and share. Your open data is data that is accessible without limitation to the public subject to certain licence conditions such as the obligation to credit you as the source.&nbsp;</p>\n\n<p>Open data can be any non-personal data type where the organisation deems it more beneficial to share without restriction.</p>\n",
+        "strapline": "Open",
+        "_graphic": {
+          "src": "course/en/assets/a3038084b5bda8cb230ca1e2ecf31c85f3abb662.png",
+          "alt": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 81.3,
+        "_top": 75
+      }
+    ]
+  },
+  {
+    "_id": "57e946b54d7b7e82691e3d20",
+    "_layout": "full",
+    "_parentId": "57e946a94d7b7e82691e3d1f",
+    "_type": "component",
+    "body": "<p>Open data strategy is your statement of the value your organisation sees in data sharing, the role of open data within in and a plan of action to achieve these values. As with all strategy, the development needs to take into account the views of the organisation. By following the processes laid out in this module, you can quickly and effectively design better open data strategy within your organisation and enjoy the benefits of better data sharing with partners and the wider world.</p>\n",
+    "displayTitle": "Open data strategy",
+    "title": "Open data strategy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57e8eadb4d7b7e82691e3d0f",
+    "_layout": "left",
+    "_parentId": "57e8dece4d7b7e82691e3d0c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/79f8cb80ddb1743d65464cd5e963bf8197ea7f0d.png",
+      "small": "course/en/assets/79f8cb80ddb1743d65464cd5e963bf8197ea7f0d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57e94be34d7b7e82691e3d24",
+    "_layout": "right",
+    "_parentId": "57e0e9354d7b7e82691e3cf9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/74493105399e8c67ea6b61569e223eec2a75f595.png",
+      "small": "course/en/assets/74493105399e8c67ea6b61569e223eec2a75f595.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57e94c2a4d7b7e82691e3d28",
+    "_layout": "left",
+    "_parentId": "57e3ec184d7b7e82691e3cfb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/adf8c25f008196b25dbebcd69dc2f4c7937d1746.jpg",
+      "small": "course/en/assets/adf8c25f008196b25dbebcd69dc2f4c7937d1746.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57e94c6b4d7b7e82691e3d2c",
+    "_layout": "right",
+    "_parentId": "57e4fc7f4d7b7e82691e3d09",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2813c675fbfd5a508c8e99374187733d399f4b25.png",
+      "small": "course/en/assets/2813c675fbfd5a508c8e99374187733d399f4b25.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57e94b2f4d7b7e82691e3d23",
+    "_layout": "right",
+    "_parentId": "57e8ecb24d7b7e82691e3d10",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a3eabc9ff7af595c2356ac8a06ded65c0f635501.png",
+      "small": "course/en/assets/a3eabc9ff7af595c2356ac8a06ded65c0f635501.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "57e8ded84d7b7e82691e3d0d",
+    "_layout": "right",
+    "_parentId": "57e8dece4d7b7e82691e3d0c",
+    "_type": "component",
+    "body": "<p>Strategy is only as effective as the ability of staff to execute it. If your organisation does not understand the importance of data strategy or the direct impact on their work, they are less likely to support your initiatives and more likely to steer the organisation into the resistant or piecemeal state.&nbsp;</p>\n\n<p>Putting in place the skills to execute data strategy begins with a profile of your workforce, their activities and current proficiencies. To help you address this for the unique challenges of open data, the ODI has created the Data Skills Framework. The Framework is a set of core skills that are important to executing data strategy.&nbsp;</p>\n\n<p>The Framework works at three levels. The top level groups your workforce into their current level of proficiency, either Explorer (newcomer), Strategist &amp; Practitioner (experienced manager or specialist respectively) or Pioneer (your leading experts).</p>\n\n<p><a href=\"https://drive.google.com/file/d/0BxZjxjoFCNfSRFV1TTlwU3p3WG8/view?usp=sharing\">To learn how to use the framework in your own data strategy, follow this exercise</a>.</p>\n",
+    "displayTitle": "Assessing the skill requirements",
+    "title": "Assessing the skill requirements",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "57e945704d7b7e82691e3d1e",
+    "_layout": "full",
+    "_parentId": "57e945674d7b7e82691e3d1d",
+    "_type": "component",
+    "body": "<p>In order to govern strategy effectively, one of the key components is the contribution of individual teams to the overall strategy of the organisation. Yet many organisations fail to offer the proper incentives to participate. In order to develop your teams understanding of incentives, we recommend playing the contribution game below:</p>\n\n<p>When prompted by your instructor, please click the relevant link below, enter your offer and hit &#39;submit&#39;.</p>\n\n<p style=\"text-align:center\"><a href=\"http://goo.gl/forms/Nm5B2aAwd7xJzb753\" target=\"_blank\"><span style=\"color:#FFFFFF\">Round 1</span></a></p>\n\n<p style=\"text-align:center\"><a href=\"http://goo.gl/forms/vANFi1GKsXUNgfHy2\" target=\"_blank\"><span style=\"color:#FFFFFF\">Round 2</span></a></p>\n\n<p style=\"text-align:center\"><a href=\"http://goo.gl/forms/RHtk4xX56B0Oi3203\" target=\"_blank\"><span style=\"color:#FFFFFF\">Round 3</span></a></p>\n\n<p style=\"text-align:center\"><a href=\"http://goo.gl/forms/6Q80OkSQjpU36nlp2\" target=\"_blank\"><span style=\"color:#FFFFFF\">Round 4</span></a></p>\n\n<p style=\"text-align:center\"><a href=\"http://goo.gl/forms/6Iu2Eu6vIntkTdBG3\" target=\"_blank\"><span style=\"color:#FFFFFF\">Round 5</span></a></p>\n",
+    "displayTitle": "Incentives & how to govern them",
+    "title": "Incentives & how to govern them",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
+]
